@@ -1043,3 +1043,19 @@ h4 {
 		text-align: center;
 	}
 }
+.coordonnees{
+	font-size: 20px;
+    font-weight: 500;
+}
+.description{
+	font-size: 17px;
+    
+}
+.contact-a{
+	font-size: 17px;
+    
+}
+.col-sm-6{
+	padding: 0 50px;
+   
+}
