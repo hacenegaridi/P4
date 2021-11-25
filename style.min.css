@@ -675,7 +675,9 @@ a {
 	max-width: 520px;
 	margin: auto auto auto auto;
 }
-
+p.text-center {
+	font-size: 17px;
+}
 p {
 	font-size: 11px;
 }
@@ -776,7 +778,7 @@ h4 {
 }
 
 .tc-white {
-	color: #f3976c !important;
+	color: #fff !important;
 }
 
 .btn-atomic-tangerine {
